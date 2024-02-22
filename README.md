@@ -1,1 +1,1 @@
-Solution to C - Sorting algorithms & Big O
+solution to C - Sorting algorithms & Big O
